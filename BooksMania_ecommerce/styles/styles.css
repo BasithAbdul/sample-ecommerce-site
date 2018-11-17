@@ -1,0 +1,80 @@
+img.product-image{
+	width: auto;
+	height: 200px;
+}
+.book-title{
+	font-size: 1.2em;
+}
+.book-author{
+	font-size: 1em;
+	color: gray;
+}
+img.modal-image{
+	width: auto;
+	height: 400px;
+}
+#table-authors{
+	width: auto;
+	margin: 0 auto;
+}
+#grp-btn{
+	margin-top: -30px;
+}
+#login-form{
+	width: 50%;
+	margin: 5% auto;
+	border: 1px solid black;
+	padding: 20px 40px;
+}
+#banner-background{
+	background: url('../images/banner/banner.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	width: 100%;
+}
+#banner-quotes{
+	padding-top: 30vh;
+	padding-left: 30px;
+	color: white;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-size: 3em;
+	margin: auto;
+	font-weight: bolder;
+	letter-spacing: 0.2em;
+}
+.button-fancy{
+	border: 1px solid rgba(0,0,0,0.8);
+	border-radius: 10px;
+	letter-spacing: 0.2em;
+	padding: 10px 30px;
+	color: white;
+	transition: all 0.2s;
+	transition-timing-function: ease-in;
+}
+.button-fancy:hover{
+	background-color: rgba(0, 0, 0, 0.4);
+	text-decoration: none;
+	color: white;
+}
+.heading{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.book-box{
+	margin-bottom: 30px;
+	border-right: 1px solid rgba(0, 0, 0, 0.3);
+}
+footer{
+	background-color: #F8F9FA;
+	font-family: sans-serif;
+	text-align: center;
+	color: gray;
+	margin: auto;
+}
+
+
+
+
